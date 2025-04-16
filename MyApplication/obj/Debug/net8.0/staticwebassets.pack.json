@@ -1,12 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Nate\\Desktop\\OG&E\\Sprint 1\\MyApplication\\wwwroot\\favicon.ico",
+      "Id": "c:\\Users\\nl1101043\\Desktop\\Nathan's Capstone\\Sprint-1\\MyApplication\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
-    },
-    {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyApplication.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
-      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyApplication.Microsoft.AspNetCore.StaticWebAssets.props",
